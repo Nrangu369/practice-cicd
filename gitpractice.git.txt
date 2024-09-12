@@ -1,5 +1,5 @@
 hello ranga how are you
 now changing new file
-new changes
+new changes.
 
 git push --set-upstream origin feature2
