@@ -1,2 +1,3 @@
 hello ranga how are you
 now changing new file
+new changes
